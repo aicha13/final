@@ -1,7 +1,7 @@
 import { useState } from 'react';
 import './App.css';
 import React from 'react';
-import {Box, Button,Flex, Image, Link, Spacer, Input, Text} from '@chakra-ui/react';
+import {Box, Button,Flex, Image, Link, Input, Text} from '@chakra-ui/react';
 import Discord from "./assets/social-media-icons/discord_32x32.png";
 import Twitter from "./assets/social-media-icons/twitter_32x32.png";
 import yourcollection from "./artifacts/contracts/yourcollection.sol/yourcollection.json";
